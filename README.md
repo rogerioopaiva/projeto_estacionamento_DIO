@@ -1,2 +1,2 @@
-# projeto_estacionamento_DIO
-Projeto estacionamento com typescript desenvolvido durante o bootcamp da Spread 
+# Projeto Sistema de Estacionamento com Typescript da DIO
+Projeto de um sistema básico de estacionamento com typescript desenvolvido durante o bootcamp **Spread FullStack Developer**
